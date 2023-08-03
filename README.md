@@ -3,7 +3,7 @@ PCB designed using Altium designer as a practice project to learn Altium.
 Created following a YouTube tutorial linked here: https://www.youtube.com/watch?v=KQ5_7gQ1bIM&list=PLGqmHfPRKhwrl4rLZ9Hpkqo6NKDypoAPY&index=2
 
 PCB takes a 5V power source to a two-pin header and uses a timer and decade counter IC to sequentially illuminate a row of 10 LEDs.
-The speed of the LED sequence can be adjusted manually using a potentiometer on the PCB.
+The speed of the LED sequence can be adjusted manually using a potentiometer on the PCB. The final design of the PCB was successfully sent to JLCPCB for manufacturing.
 
 Possible applications include a sequential turn signal for motor vehicles.
 
